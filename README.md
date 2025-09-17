@@ -19,4 +19,5 @@ https://sudheerrrrit.github.io/Gaming-Website/
 
 ### Demo Screeshots
 
-![Unigine Desktop Demo](./readme-images/desktop.png "Desktop Demo")
+<img width="1288" height="728" alt="image" src="https://github.com/user-attachments/assets/d6f0dfa0-fcd7-4fba-83ff-db6821da1182" />
+
